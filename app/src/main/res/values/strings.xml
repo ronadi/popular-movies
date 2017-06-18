@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="error_message">Movie not Found</string>
+    <string name="thumbnail_poster_movie">thumbnail poster movie</string>
+    <string name="no_connection">Please Check your connection</string>
+    <string name="movieListSave">movieList</string>
+    <string name="title">TITLE</string>
+    <string name="poster">POSTER</string>
+    <string name="date">DATE</string>
+    <string name="overview">OVERVIEW</string>
+    <string name="vote">VOTE</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+</resources>
